@@ -1,0 +1,2 @@
+# AcademicOracleSQL
+Academic exercises
