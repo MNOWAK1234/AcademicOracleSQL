@@ -3,3 +3,4 @@
 * SQL Queries Academic Exercises
 * PLSQL Functions and Procedures Academic Exercises
 * JDBC Academic Exercises
+* MongoDB Academic Exercises
